@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>album</title>
+   	<link>.</link>
+        <generator>jAlbum 31</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>動態範圍擴大</title>
+            <link>slides/%E5%8B%95%E6%85%8B%E7%AF%84%E5%9C%8D%E6%93%B4%E5%A4%A7.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%8B%95%E6%85%8B%E7%AF%84%E5%9C%8D%E6%93%B4%E5%A4%A7.png" width="212" height="141"/>
+            <media:content type="image/gif" url="slides/%E5%8B%95%E6%85%8B%E7%AF%84%E5%9C%8D%E6%93%B4%E5%A4%A7.png" width="621" height="412"/>
+            <guid isPermaLink="false">slides/%E5%8B%95%E6%85%8B%E7%AF%84%E5%9C%8D%E6%93%B4%E5%A4%A7.png</guid>
+        </item>
+        <item>
+            <title>窗外的藍色調</title>
+            <link>slides/%E7%AA%97%E5%A4%96%E7%9A%84%E8%97%8D%E8%89%B2%E8%AA%BF.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E7%AA%97%E5%A4%96%E7%9A%84%E8%97%8D%E8%89%B2%E8%AA%BF.png" width="119" height="170"/>
+            <media:content type="image/gif" url="slides/%E7%AA%97%E5%A4%96%E7%9A%84%E8%97%8D%E8%89%B2%E8%AA%BF.png" width="405" height="578"/>
+            <guid isPermaLink="false">slides/%E7%AA%97%E5%A4%96%E7%9A%84%E8%97%8D%E8%89%B2%E8%AA%BF.png</guid>
+        </item>
+        <item>
+            <title>灰階照片上彩</title>
+            <link>slides/%E7%81%B0%E9%9A%8E%E7%85%A7%E7%89%87%E4%B8%8A%E5%BD%A9.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E7%81%B0%E9%9A%8E%E7%85%A7%E7%89%87%E4%B8%8A%E5%BD%A9.png" width="132" height="170"/>
+            <media:content type="image/gif" url="slides/%E7%81%B0%E9%9A%8E%E7%85%A7%E7%89%87%E4%B8%8A%E5%BD%A9.png" width="451" height="580"/>
+            <guid isPermaLink="false">slides/%E7%81%B0%E9%9A%8E%E7%85%A7%E7%89%87%E4%B8%8A%E5%BD%A9.png</guid>
+        </item>
+        <item>
+            <title>創意扭曲</title>
+            <link>slides/%E5%89%B5%E6%84%8F%E6%89%AD%E6%9B%B2.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%89%B5%E6%84%8F%E6%89%AD%E6%9B%B2.png" width="132" height="170"/>
+            <media:content type="image/gif" url="slides/%E5%89%B5%E6%84%8F%E6%89%AD%E6%9B%B2.png" width="437" height="564"/>
+            <guid isPermaLink="false">slides/%E5%89%B5%E6%84%8F%E6%89%AD%E6%9B%B2.png</guid>
+        </item>
+        <item>
+            <title>修容工具與仿製畫筆</title>
+            <link>slides/%E4%BF%AE%E5%AE%B9%E5%B7%A5%E5%85%B7%E8%88%87%E4%BB%BF%E8%A3%BD%E7%95%AB%E7%AD%86.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E4%BF%AE%E5%AE%B9%E5%B7%A5%E5%85%B7%E8%88%87%E4%BB%BF%E8%A3%BD%E7%95%AB%E7%AD%86.png" width="113" height="170"/>
+            <media:content type="image/gif" url="slides/%E4%BF%AE%E5%AE%B9%E5%B7%A5%E5%85%B7%E8%88%87%E4%BB%BF%E8%A3%BD%E7%95%AB%E7%AD%86.png" width="371" height="564"/>
+            <guid isPermaLink="false">slides/%E4%BF%AE%E5%AE%B9%E5%B7%A5%E5%85%B7%E8%88%87%E4%BB%BF%E8%A3%BD%E7%95%AB%E7%AD%86.png</guid>
+        </item>
+        <item>
+            <title>晨昏長曝</title>
+            <link>slides/%E6%99%A8%E6%98%8F%E9%95%B7%E6%9B%9D.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%99%A8%E6%98%8F%E9%95%B7%E6%9B%9D.png" width="212" height="156"/>
+            <media:content type="image/gif" url="slides/%E6%99%A8%E6%98%8F%E9%95%B7%E6%9B%9D.png" width="621" height="457"/>
+            <guid isPermaLink="false">slides/%E6%99%A8%E6%98%8F%E9%95%B7%E6%9B%9D.png</guid>
+        </item>
+        <item>
+            <title>拼貼馬賽克</title>
+            <link>slides/%E6%8B%BC%E8%B2%BC%E9%A6%AC%E8%B3%BD%E5%85%8B.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%8B%BC%E8%B2%BC%E9%A6%AC%E8%B3%BD%E5%85%8B.png" width="119" height="170"/>
+            <media:content type="image/gif" url="slides/%E6%8B%BC%E8%B2%BC%E9%A6%AC%E8%B3%BD%E5%85%8B.png" width="450" height="644"/>
+            <guid isPermaLink="false">slides/%E6%8B%BC%E8%B2%BC%E9%A6%AC%E8%B3%BD%E5%85%8B.png</guid>
+        </item>
+        <item>
+            <title>正沖負</title>
+            <link>slides/%E6%AD%A3%E6%B2%96%E8%B2%A0.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E6%AD%A3%E6%B2%96%E8%B2%A0.png" width="170" height="170"/>
+            <media:content type="image/gif" url="slides/%E6%AD%A3%E6%B2%96%E8%B2%A0.png" width="701" height="701"/>
+            <guid isPermaLink="false">slides/%E6%AD%A3%E6%B2%96%E8%B2%A0.png</guid>
+        </item>
+        <item>
+            <title>秋絮紛飛</title>
+            <link>slides/%E7%A7%8B%E7%B5%AE%E7%B4%9B%E9%A3%9B.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E7%A7%8B%E7%B5%AE%E7%B4%9B%E9%A3%9B.png" width="118" height="170"/>
+            <media:content type="image/gif" url="slides/%E7%A7%8B%E7%B5%AE%E7%B4%9B%E9%A3%9B.png" width="556" height="800"/>
+            <guid isPermaLink="false">slides/%E7%A7%8B%E7%B5%AE%E7%B4%9B%E9%A3%9B.png</guid>
+        </item>
+        <item>
+            <title>光暈效果</title>
+            <link>slides/%E5%85%89%E6%9A%88%E6%95%88%E6%9E%9C.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%85%89%E6%9A%88%E6%95%88%E6%9E%9C.png" width="212" height="166"/>
+            <media:content type="image/gif" url="slides/%E5%85%89%E6%9A%88%E6%95%88%E6%9E%9C.png" width="1000" height="782"/>
+            <guid isPermaLink="false">slides/%E5%85%89%E6%9A%88%E6%95%88%E6%9E%9C.png</guid>
+        </item>
+        <item>
+            <title>記憶痕跡</title>
+            <link>slides/%E8%A8%98%E6%86%B6%E7%97%95%E8%B7%A1.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%A8%98%E6%86%B6%E7%97%95%E8%B7%A1.png" width="118" height="170"/>
+            <media:content type="image/gif" url="slides/%E8%A8%98%E6%86%B6%E7%97%95%E8%B7%A1.png" width="450" height="647"/>
+            <guid isPermaLink="false">slides/%E8%A8%98%E6%86%B6%E7%97%95%E8%B7%A1.png</guid>
+        </item>
+        <item>
+            <title>聚焦美人</title>
+            <link>slides/%E8%81%9A%E7%84%A6%E7%BE%8E%E4%BA%BA.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E8%81%9A%E7%84%A6%E7%BE%8E%E4%BA%BA.png" width="114" height="170"/>
+            <media:content type="image/gif" url="slides/%E8%81%9A%E7%84%A6%E7%BE%8E%E4%BA%BA.png" width="536" height="800"/>
+            <guid isPermaLink="false">slides/%E8%81%9A%E7%84%A6%E7%BE%8E%E4%BA%BA.png</guid>
+        </item>
+        <item>
+            <title>傘傘動人</title>
+            <link>slides/%E5%82%98%E5%82%98%E5%8B%95%E4%BA%BA.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%82%98%E5%82%98%E5%8B%95%E4%BA%BA.png" width="132" height="170"/>
+            <media:content type="image/gif" url="slides/%E5%82%98%E5%82%98%E5%8B%95%E4%BA%BA.png" width="621" height="800"/>
+            <guid isPermaLink="false">slides/%E5%82%98%E5%82%98%E5%8B%95%E4%BA%BA.png</guid>
+        </item>
+        <item>
+            <title>黃花綠葉</title>
+            <link>slides/%E9%BB%83%E8%8A%B1%E7%B6%A0%E8%91%89.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E9%BB%83%E8%8A%B1%E7%B6%A0%E8%91%89.png" width="170" height="170"/>
+            <media:content type="image/gif" url="slides/%E9%BB%83%E8%8A%B1%E7%B6%A0%E8%91%89.png" width="701" height="701"/>
+            <guid isPermaLink="false">slides/%E9%BB%83%E8%8A%B1%E7%B6%A0%E8%91%89.png</guid>
+        </item>
+        <item>
+            <title>回眸一笑</title>
+            <link>slides/%E5%9B%9E%E7%9C%B8%E4%B8%80%E7%AC%91.png</link>
+            <pubDate>Tue, 30 May 2023 02:28:29 +0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/%E5%9B%9E%E7%9C%B8%E4%B8%80%E7%AC%91.png" width="118" height="170"/>
+            <media:content type="image/gif" url="slides/%E5%9B%9E%E7%9C%B8%E4%B8%80%E7%AC%91.png" width="555" height="800"/>
+            <guid isPermaLink="false">slides/%E5%9B%9E%E7%9C%B8%E4%B8%80%E7%AC%91.png</guid>
+        </item>
+    </channel>
+</rss>
